@@ -1,0 +1,22 @@
+# Index, Address, Object Type( 0 == Background(false), 1 == Solid Tile(true), 2 == Slope Tile(true)
+NUMBER 20
+0 A test/Tiles/whiteback 0
+1 A test/Tiles/castleCenter 1
+2 A test/Tiles/grass 1
+3 A test/Tiles/grassCenter 1
+4 A test/Tiles/grassCenter_rounded 1 
+5 A test/Tiles/grassCliffLeft 1
+6 A test/Tiles/grassCliffLeftAlt 1
+7 A test/Tiles/grassCliffRight 1
+8 A test/Tiles/grassCliffRightAlt 1
+9 A test/Tiles/grassHalf 1
+10 A test/Tiles/grassHalfLeft 1
+11 A test/Tiles/grassHalfMid 1
+12 A test/Tiles/grassHalfRight 1
+13 A test/Tiles/grassHillLeft 2 70 0
+14 A test/Tiles/grassHillLeft2 1
+15 A test/Tiles/grassHillRight 2 0 70
+16 A test/Tiles/grassHillRight2 1
+17 A test/Tiles/grassLeft 1
+18 A test/Tiles/grassMid 1
+19 A test/Tiles/grassRight 1
