@@ -3,6 +3,7 @@ This is for my portfolio which was implemented for the submission of
 "Artificial Intelligence and Affective Computing" Module on Northumbria University in the UK.
 
 You can play the exe file. There is a memo which let you know how to play the game.
+This exe file can be played on the windows 10.
 
 In the 'Code' folder, you will see the core AI implementation : Monster AI, Multi Layer Perceptron(MLP), Single Layer Perceptron(SLP).
 
