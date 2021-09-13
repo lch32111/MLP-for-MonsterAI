@@ -1,6 +1,14 @@
 # MLP-for-MonsterAI
+![game_screenshot](screenshot.png)
+
 This is for my portfolio which was implemented for the submission of 
 "Artificial Intelligence and Affective Computing" Module on Northumbria University in the UK.
+
+
+
+You can find the details of its implementation on [AI and Affective Computing Report.docx](AI and Affective Computing Report(Chanhaeng Lee, 17030159).docx)
+
+
 
 You can play the exe file. There is a memo which let you know how to play the game.
 This exe file can be played on the windows 10.
@@ -27,8 +35,7 @@ the monster AI code is used like this :
 * you will be able to see the console showing the decision of each monster.
 * you will be able to see the training data on monster AI code.
   I gathered that kinds of data by playing my game directly. So, this kind of data may have a bias which I intended to implement.
-  
-  
- After this project, I feel that unsupervised training is needed to make the monster AI which has enough high intelligence to defeat any user.
 
+
+ After this project, I feel that unsupervised training is needed to make the monster AI which has enough high intelligence to defeat any user.
 
